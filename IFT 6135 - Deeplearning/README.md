@@ -1,5 +1,7 @@
 # IFT 6135 - Representation Learning (Winter 2019)
 
+*Prof. [Aaron Courville](https://mila.quebec/personne/aaron-courville/)*
+
 [Link to IFT 6135 course website](https://sites.google.com/mila.quebec/ift6135)
 
 * **Homework 1** (reports and [code](https://github.com/achehire/Deep_1_AC_AN_PW/tree/master/Assignment1))

@@ -1,5 +1,7 @@
 # IFT 6285 - Natural Language Processing (Fall 2018)
 
+*Prof. [Philippe Langlais](http://www-labs.iro.umontreal.ca/~felipe/new-home/frontal.php?page=resume.html)*
+
 [Link to IFT 6285 course website](http://www-labs.iro.umontreal.ca/~felipe/IFT6285-Automne2018/frontal.php?page=cours.html)
 
 * **Project 1** (report and code)

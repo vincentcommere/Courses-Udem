@@ -21,7 +21,7 @@ We used the Stanford Bunny and Dragon as the surface manifolds we tried to learn
 
 ## Dependencies
 
-In order to fully run our notebook, you will need, in addition to **numpy, matplotlib, scikit-learn** and **PyTorch**:
+In order to fully run our [notebook](https://nbviewer.jupyter.org/github/AdelNabli/Courses-Udem/blob/master/IFT%206132%20-%20StrucPred%26Opt/Project/IFT%206132%20-%20Project.ipynb), you will need, in addition to **numpy, matplotlib, scikit-learn** and **PyTorch**:
 
 * [Open3D](http://www.open3d.org/docs/release/index.html)
 * [Trimesh](https://trimsh.org/index.html)

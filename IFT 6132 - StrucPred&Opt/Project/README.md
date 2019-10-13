@@ -1,7 +1,7 @@
 # Exploration with task losses for generative modeling
 
 
-we trained the same generator *(a simple MLP with two hidden layers, of input size 2 and output of size 3)* on the task of generating points belonging to a 2D surface manifold embedded in 3D 
+We trained the same generator *(a simple MLP with two hidden layers, of input size 2 and output of size 3)* on the task of generating points belonging to a 2D surface manifold embedded in 3D 
 using different task losses:
 
 * A **parametric adversarial divergence** approximating the Jensen Shannon Divergence (JSD) at convergence *(Vanilla GAN)*
@@ -11,7 +11,7 @@ using different task losses:
 * The **L_2 loss** with target corresponding to the Nearest Neighbor in latent space
 * The **Sinkhorn divergence**
 
-We compare the results visualy by sampling a point cloud on each of these generator and comparing it to the true 3D model we tried to learn.
+We compared the results both visually and quantitatively by sampling a point cloud on each of these trained generators and by comparing them to the true 3D models we tried to learn.
 
 For more information about our approach and results, see the report.
 

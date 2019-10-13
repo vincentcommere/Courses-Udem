@@ -29,3 +29,23 @@ Contains:
 * **Project 1** (report and code)
 * **Project 2** (report and code)
 * **Project 3** (report and code)
+
+## IFT 6135 - Representation Learning (Winter 2019)
+
+[Link to IFT 6135 course website](https://sites.google.com/mila.quebec/ift6135)
+
+* **Homework 1** (reports and code)
+* **Homework 2** (reports and code)
+* **Homework 3** (reports and code)
+
+## IFT 6760A - Matrix and tensor factorization techniques for machine learning (Winter 2019)
+
+[Link to IFT 6760A course website](https://www-labs.iro.umontreal.ca/~grabus/courses/ift6760a-w19.html)
+
+* **Project** (report and code)
+
+## IFT 6132 - Advanced Structured Prediction and Optimization (Winter 2019)
+
+[Link to IFT 6132 course website](http://www.iro.umontreal.ca/~slacoste/teaching/ift6132/W19/)
+
+* **Project** (report and code)

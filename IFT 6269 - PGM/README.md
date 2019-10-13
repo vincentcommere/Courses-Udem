@@ -1,4 +1,4 @@
-# IFT 6269 - Probabilistic Graphical Models
+# IFT 6269 - Probabilistic Graphical Models (Fall 2018)
 
 [Link to IFT 6269 course website]( http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A18/ )
 

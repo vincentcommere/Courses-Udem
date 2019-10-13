@@ -5,3 +5,4 @@
 * **Homework 2** (theory and code)
 * **Homework 3** (theory and code)
 * **Homework 4** (theory and code)
+* **Project** (poster, report and code)

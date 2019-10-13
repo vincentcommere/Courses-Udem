@@ -42,10 +42,12 @@ Contains:
 
 [Link to IFT 6760A course website](https://www-labs.iro.umontreal.ca/~grabus/courses/ift6760a-w19.html)
 
+* **Scribe Notes** (Proof of the Johnson Lindenstrauss Lemma & application to linear regression in high dimension)
 * **Project** (report and code)
 
 ## IFT 6132 - Advanced Structured Prediction and Optimization (Winter 2019)
 
 [Link to IFT 6132 course website](http://www.iro.umontreal.ca/~slacoste/teaching/ift6132/W19/)
 
+* **Scribe Notes** (Introduction to structured prediction & variance reduced SGD )
 * **Project** (report and code)

@@ -1,5 +1,7 @@
 # IFT 6269 - Probabilistic Graphical Models (Fall 2018)
 
+*Prof. [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/)*
+
 [Link to IFT 6269 course website]( http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A18/ )
 
 * **Homework 1** (code)

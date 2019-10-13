@@ -5,6 +5,8 @@ Contains:
 
 ## IFT 6269 - Probabilistic Graphical Models (Fall 2018)
 
+*Prof. [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/)*
+
 [Link to IFT 6269 course website]( http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A18/ )
 
 * **Homework 1** (code)
@@ -16,6 +18,8 @@ Contains:
 
 ## IFT 6390 - Fundamentals of Machine Learning (Fall 2018)
 
+*Prof. [Ioannis Mitliagkas]( http://mitliagkas.github.io/ )*
+
 * **Homework 1** (theory and code)
 * **Homework 2** (theory and code)
 * **Homework 3** (theory and code)
@@ -23,6 +27,8 @@ Contains:
 * **Project** (poster, report and code)
 
 ## IFT 6285 - Natural Language Processing (Fall 2018)
+
+*Prof. [Philippe Langlais](http://www-labs.iro.umontreal.ca/~felipe/new-home/frontal.php?page=resume.html)*
 
 [Link to IFT 6285 course website](http://www-labs.iro.umontreal.ca/~felipe/IFT6285-Automne2018/frontal.php?page=cours.html)
 
@@ -32,6 +38,8 @@ Contains:
 
 ## IFT 6135 - Representation Learning (Winter 2019)
 
+*Prof. [Aaron Courville](https://mila.quebec/personne/aaron-courville/)*
+
 [Link to IFT 6135 course website](https://sites.google.com/mila.quebec/ift6135)
 
 * **Homework 1** (reports and code)
@@ -40,6 +48,8 @@ Contains:
 
 ## IFT 6760A - Matrix and tensor factorization techniques for machine learning (Winter 2019)
 
+*Prof. [Guillaume Rabusseau]( https://www-labs.iro.umontreal.ca/~grabus/ )*
+
 [Link to IFT 6760A course website](https://www-labs.iro.umontreal.ca/~grabus/courses/ift6760a-w19.html)
 
 * **Paper presentation** (Spectral clustering from a geometrical viewpoint)
@@ -47,6 +57,9 @@ Contains:
 * **Project** (report and code)
 
 ## IFT 6132 - Advanced Structured Prediction and Optimization (Winter 2019)
+
+
+*Prof. [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/)*
 
 [Link to IFT 6132 course website](http://www.iro.umontreal.ca/~slacoste/teaching/ift6132/W19/)
 

@@ -10,7 +10,7 @@ using different task losses:
 * The **L_2 loss** with target corresponding to the Nearest Neighbor in latent space
 * The **Sinkhorn divergence**
 
-We compared the results both visually and quantitatively by sampling a point cloud on each of these trained generators and by comparing them to the true 3D models we tried to learn.
+We compared the results both visually and quantitatively by sampling a point cloud from each of these trained generators and by comparing them to the true 3D models we tried to learn.
 
 For more information about our approach and results, see the [report](https://github.com/AdelNabli/Courses-Udem/blob/master/IFT%206132%20-%20StrucPred%26Opt/Project/IFT_6132___Project_Report.pdf).
 

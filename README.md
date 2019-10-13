@@ -14,7 +14,7 @@ Contains:
 * **Homework 5** (theory and code)
 * **Project** (report and code)
 
-## IFT 6390 - Introduction to Machine Learning (Fall 2018)
+## IFT 6390 - Fundamentals of Machine Learning (Fall 2018)
 
 * **Homework 1** (theory and code)
 * **Homework 2** (theory and code)
